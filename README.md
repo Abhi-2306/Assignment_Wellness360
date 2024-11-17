@@ -80,7 +80,7 @@ Response:
 }
 
 ## **Design Decisions**
--Framework: Used Express.js for its simplicity and scalability.
--Database: MongoDB was chosen for its schema flexibility and JSON-like storage.
--Authentication: Implemented JWT for secure access to API endpoints.
--Error Handling: Middleware captures and formats error responses.
+- Framework: Used Express.js for its simplicity and scalability.
+- Database: MongoDB was chosen for its schema flexibility and JSON-like storage.
+- Authentication: Implemented JWT for secure access to API endpoints.
+- Error Handling: Middleware captures and formats error responses.
