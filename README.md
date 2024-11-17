@@ -45,14 +45,14 @@ MongoDB (local or cloud-based)
 
 
         
-##Running the Application
+## **Running the Application**
   npm start
   
-##Running Tests
+## **Running Tests**
   npm test
 
 
-##Usage
+##  **Usage**
 Example Request to Create a Task
 POST /api/tasks
 
@@ -79,7 +79,7 @@ Response:
   }
 }
 
-##Design Decisions
+## **Design Decisions**
 Framework: Used Express.js for its simplicity and scalability.
 Database: MongoDB was chosen for its schema flexibility and JSON-like storage.
 Authentication: Implemented JWT for secure access to API endpoints.
